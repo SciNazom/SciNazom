@@ -1,5 +1,5 @@
 - 👋 Hi, I'm Ofordum JohnBosco Chukwunazom.
-- 👀 I’m interested in data analytics, implementing and importing  data that can be used to solve problems in healthcare and medicine.
+- 👀 I am  a clinical laboratory technician and a consultant interested in data analytics, implementing and importing  data that can be used to solve problems in healthcare and medicine.
 - 🌱 I’m currently learning the application of data analytics with Excel, PowerBI, Tableau, SQL, C++, and Python to understand healthcare data.
 - 💞️ I’m looking to collaborate on health and clinical research involving large data that can be studied and implemented to provide solutions and alleviate healthcare and medical problems. 
 - 📫 How to reach me; You can reach me at sci.nazom@gmail.com and cj.ofordum@stu.unizik.edu.ng
